@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "699872195999",
+    "firebase_url": "https://nekocafe-7fb00.firebaseio.com",
+    "project_id": "nekocafe-7fb00",
+    "storage_bucket": "nekocafe-7fb00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699872195999:android:27c9edcc4c2eb2e15db9aa",
+        "android_client_info": {
+          "package_name": "com.seniorproject.gmail_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699872195999-i7beleovu003tuh150k6t0i3hqcak1ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seniorproject.gmail_login",
+            "certificate_hash": "d233ec12b40eda74a860f3b0ea729f3bef112d0d"
+          }
+        },
+        {
+          "client_id": "699872195999-ppe75tp6lkudmq8adkl2q2qgc8p1e4a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ba-cWDVPosOETfA6D5g06SJpEIgcPCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699872195999-ppe75tp6lkudmq8adkl2q2qgc8p1e4a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
